@@ -1,0 +1,14 @@
+.App {
+  text-align: center;
+}
+
+h1 {
+  color: #333;
+  font-family: Arial, sans-serif;
+  margin-top: 20px;
+}
+
+button {
+  margin: 5px;
+}
+
